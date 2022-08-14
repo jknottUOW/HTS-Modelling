@@ -1,3 +1,5 @@
+title: HTS Modelling Workgroup
+description: [A short description of your site's purpose]
 plugins:
   - jekyll-relative-links
 relative_links:
