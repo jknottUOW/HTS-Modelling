@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: HTS Modelling Workgroup
 description: [A short description of your site's purpose]
 plugins:
@@ -7,3 +8,6 @@ relative_links:
   collections: true
 include:
   - about.md
+=======
+theme: jekyll-theme-tactile
+>>>>>>> 359cc8a5f0a98e646edf2e78da2c7bfb3e333a0d
